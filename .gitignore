@@ -1,0 +1,10 @@
+.node_modules
+.dist
+.vite
+.tsconfig.json
+.tsconfig.node.json
+.vite.config.ts
+.index.html
+.favicon.svg
+.bg.webp
+.favicon.svg
